@@ -55,7 +55,6 @@ def main():
 
     hello_and_goodbye()
 
-
 def hello():
     """ Prints a welcoming message on the console. """
     print('Hello!  How are things?')
@@ -72,7 +71,6 @@ def hello_and_goodbye():
     """ Prints welcoming and farewell messages on the console. """
     hello()
     goodbye()
-
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
